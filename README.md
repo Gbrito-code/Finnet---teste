@@ -1,2 +1,0 @@
-# Finnet---teste
-API lumen
