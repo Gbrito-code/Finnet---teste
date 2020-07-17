@@ -15,7 +15,7 @@ $router->put('/user', function () {
        
 });
 
-$router->delete('/user', function () {
+$router->delete('/user/{id}', function ($id) {
   
 
 });
